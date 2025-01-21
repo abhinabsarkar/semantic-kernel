@@ -11,4 +11,14 @@ See below the example of parallel function calling
 
 ![alt txt](/images/functioncalling-eg.png)
 
+## Code Sample
 [Concept in action & code](/src/lights-hello-semantic-kernel/)
+
+```bash
+# Run the below command
+py light_main.py
+
+# Type the below in User output prompt 
+User> Toggle the lights
+``
+
